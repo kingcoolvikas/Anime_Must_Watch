@@ -4,7 +4,7 @@
 
 ## Best Anime According to Many Research
 
-_AUTHOR : Vikas Anand_
+_Author : Vikas Anand_
 
 ![Anime](Anime.jpg)
 
