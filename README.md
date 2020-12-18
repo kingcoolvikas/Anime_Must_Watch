@@ -1,7 +1,7 @@
 
 
 # Anime Must Watch
-*****
+**
 **Best Anime According to Many Research**
 
 ![Anime](Anime.jpg)
