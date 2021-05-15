@@ -14,8 +14,8 @@ _Author : Vikas Anand_
 3.  your name +&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                (WATCHED)
 4.  fullmetal alchemist ++++++
 5.  kengan ashura ++
-6.  code geass ++++++++++
-7.  demon slayer ++++
+6.  code geass ++++++++++                        (WATCHED)
+7.  demon slayer ++++                            (WATCHED)
 8.  haikyuu ++
 9.  attack on titan +++++++++++++++++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    (WATCHED)
 10. seven deadly sins +
