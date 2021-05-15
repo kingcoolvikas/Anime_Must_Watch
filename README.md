@@ -11,13 +11,13 @@ _Author : Vikas Anand_
 1.  vinland saga ++ 
 2.  zankyou no terror
 3.  eden of the past
-3.  your name +&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                (WATCHED)
+3.  your name + (-----------------------------)    (WATCHED)
 4.  fullmetal alchemist ++++++
 5.  kengan ashura ++
-6.  code geass ++++++++++                        (WATCHED)
-7.  demon slayer ++++                            (WATCHED)
+6.  code geass ++++++++++ (------------------)     (WATCHED)
+7.  demon slayer ++++ (----------------------)     (WATCHED)
 8.  haikyuu ++
-9.  attack on titan +++++++++++++++++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    (WATCHED)
+9.  attack on titan +++++++++++++++++ (-------)    (WATCHED)
 10. seven deadly sins +
 11. world trigger
 12. re zero ++
@@ -26,11 +26,11 @@ _Author : Vikas Anand_
 15. one piece ++
 16. my hero academia +++
 17. jojo +++
-18. one punch man ++++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  (WATCHED)
+18. one punch man ++++  (-----------------------)  (WATCHED)
 19. erased +
 20. dragonball +
 21. bleach ++
-22. tokyo ghoul ++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      (WATCHED)
+22. tokyo ghoul (-------------------------------)  (WATCHED)
 23. world trigger
 24. monster (dark)
 25. grand blue ++
@@ -42,10 +42,10 @@ _Author : Vikas Anand_
 31. hunter x hunter +
 32. psycho pass
 33. boku no pico --
-34. silent voice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       (WATCHED)
-35. weathering with you&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   (WATCHED)
+34. silent voice  (---------------------------) (WATCHED)
+35. weathering with you (--------------------)  (WATCHED)
 36. violet evergarden
-37. i want to eat your pancreas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          (WATCHED)
+37. i want to eat your pancreas (-----------)   (WATCHED)
 38. asobi asobase
 39. barkamon
 40. kabenari on iron fortress
@@ -60,7 +60,7 @@ _Author : Vikas Anand_
 49. stein gate +++++
 50. saitama
 51. cowboy bebop
-52. kimi no nawa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                (WATCHED)
+52. kimi no nawa (----------------------------) (WATCHED)
 53. dr. stone +
 54. kuroko no basket
 55. drifters
